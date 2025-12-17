@@ -2,7 +2,7 @@
 
 Holiday Release: Final Step
 
-A string awaits where versions live,
+A string awaits where versions live, <br>
 Among the code you help protect and give.
 To hear what silence hides inside,
 This gate will help you turn the tide:
