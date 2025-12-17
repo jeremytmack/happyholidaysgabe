@@ -6,7 +6,7 @@ A string awaits where versions live, <br>
 Among the code you help protect and give. <br>
 To hear what silence hides inside, <br>
 This gate will help you turn the tide: <br>
-[https://encrypt-online.com/decrypt]:https://encrypt-online.com/decrypt <br>
+https://encrypt-online.com/decrypt <br>
  <br>
 No brute force needed—keep it clean. <br>
 The key’s already been foreseen: <br>
