@@ -19,7 +19,7 @@ You’re close—but that’s not quite the close. <br>
 If what you see feels more like text than sight, <br>
 Recall how some images travel light. <br>
  <br>
-Not all pictures start as what they seem;
-Some arrive as strings, tidy and clean.
-Reframe the form. Decode the view.
-You’ll know exactly what to do.
+Not all pictures start as what they seem; <br>
+Some arrive as strings, tidy and clean. <br>
+Reframe the form. Decode the view. <br>
+You’ll know exactly what to do. <br>
