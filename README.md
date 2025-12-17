@@ -12,7 +12,6 @@ No brute force needed—keep it clean.
 The key’s already been foreseen:
 happyholidaysgabe
 A festive phrase that opens the gate with ease.
-
 (All lowercase. No spaces. No tricks.)
 
 When letters fall and meaning shows,
